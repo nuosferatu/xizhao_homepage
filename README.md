@@ -1,8 +1,8 @@
 ## Xi Zhao's Home Page
 
-Click here [ CLICK ME ](https://xiaoppx.github.io/home.html) to access Xi Zhao's Home Page.
+Now you can click here [ Xi Zhao's Home Page. ](https://xiaoppx.github.io/home.html) to access.
 
-...and more about Lecturer Xi Zhao can be found at [ @xiaoppx ](https://github.com/xiaoppx)
+...and more info about Lec. Xi Zhao can be found at [ @xiaoppx ](https://github.com/xiaoppx)
 
 ### What is Here?
 
