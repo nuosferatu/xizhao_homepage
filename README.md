@@ -2,7 +2,7 @@
 
 Now you can click here [ Xi Zhao's Home Page. ](https://xiaoppx.github.io/home.html) to access.
 
-...and more info about Lec. Xi Zhao can be found at [ @xiaoppx ](https://github.com/xiaoppx)
+... and more info about Lec. Xi Zhao can be found at [ Xi Zhao (@xiaoppx) ](https://github.com/xiaoppx)
 
 ### What is Here?
 
